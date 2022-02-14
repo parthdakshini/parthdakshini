@@ -1,8 +1,8 @@
 ## Hi there, I'm Parth!!!!!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=parthdakshini&color=blue)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parthdakshini/ "Connect on LinkedIn")
-[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/18043328/parth)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-dakshini/ "Connect on LinkedIn")
+[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/1813896/parth-dakshini)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/parthdakshini/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/the_executer/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:parthdakshini@gmail.com "Connect via Email")
