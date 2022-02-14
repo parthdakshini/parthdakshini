@@ -12,13 +12,13 @@ I am a Bloom Institute of Technology graduate student, who is passionate about M
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning), MangoDB, AWS
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 🚴🏽 In my spare time I enjoy creating videos, hiking, camping, exploring new countries, and cooking creative vegetarian food. 
+- 🚴🏽 In my spare time I enjoy creating videos, playing video games, camping, exploring new places, and cooking creative vegetarian food. 
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
 ## GitHub Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=parthdakshini&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=parthdakshini&theme=blue-green)](https://github.com/rodricobsanchez/github-readme-streak-stats)">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=parthdakshini&theme=blue-green)](https://github.com/parthdakshini/github-readme-streak-stats)">
 </p>
 
 ## Languages and Tools
